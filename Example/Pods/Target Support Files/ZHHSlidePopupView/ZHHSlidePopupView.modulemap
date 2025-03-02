@@ -1,0 +1,6 @@
+framework module ZHHSlidePopupView {
+  umbrella header "ZHHSlidePopupView-umbrella.h"
+
+  export *
+  module * { export * }
+}

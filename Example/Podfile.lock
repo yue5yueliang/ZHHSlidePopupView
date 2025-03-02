@@ -1,0 +1,16 @@
+PODS:
+  - ZHHSlidePopupView (0.0.1)
+
+DEPENDENCIES:
+  - ZHHSlidePopupView (from `../`)
+
+EXTERNAL SOURCES:
+  ZHHSlidePopupView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHHSlidePopupView: c26618fd2bc6d3621b9f915ea5bd85b3598de76b
+
+PODFILE CHECKSUM: a0ff0201a76656998606d44f0cab02a27a76f7c8
+
+COCOAPODS: 1.16.2
